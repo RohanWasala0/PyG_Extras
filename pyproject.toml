@@ -1,0 +1,9 @@
+[project]
+name = "pyg-extras"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = [
+    "pygame-ce>=2.5.5",
+]
