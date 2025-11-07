@@ -22,6 +22,7 @@ manager = Manager.Manager(
 def main():
     print("Hello from pyg-extras!")
     print("Testing Something")
+    print("Testing LazyGit")
 
     asyncio.run(Loop.loop(isRunning=True, manager=manager))
 
